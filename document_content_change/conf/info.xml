@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+	<title xml:lang="ko">문서 내용 치환 애드온</title>
+	<title xml:lang="en">Addon for Replace document content</title>
+	<description xml:lang="ko">
+		게시글의 내용(content)에서 특정 문자열을 찾아 대체문자로 변경합니다.
+	</description>
+	<description xml:lang="en">
+		This addon support to find a particular string in the writings of posts replaced, change the character
+	</description>
+	<version>1.0</version>
+	<date>2014-03-05</date>
+
+	<author email_address="developers@xpressengine.com" link="http://xpressengine.com/">
+		<name xml:lang="ko">NAVER</name>
+		<name xml:lang="en">NAVER</name>
+	</author>
+
+	<extra_vars>
+		<var name="find_pattern" type="textarea">
+			<title xml:lang="ko">찾는 단어</title>
+			<title xml:lang="en">find word</title>
+			<description xml:lang="ko">줄바꿈하면 새로운 단어로 인식합니다.</description>
+			<description xml:lang="en">enter new line for seperated words.</description>
+		</var>
+	</extra_vars>
+
+</addon>

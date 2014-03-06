@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+	<title xml:lang="ko">첨부파일 다운로드시 댓글 필수 애드온</title>
+	<title xml:lang="en">Addon for Reply</title>
+	<description xml:lang="ko">
+		첨부파일 다운로드시 댓글을 달지 않았다면 내려 받을 수 없음
+	</description>
+	<description xml:lang="en">
+		Must write reply
+	</description>
+	<version>1.0</version>
+	<date>2014-03-05</date>
+
+	<author email_address="developers@xpressengine.com" link="http://xpressengine.com/">
+		<name xml:lang="ko">NAVER</name>
+		<name xml:lang="en">NAVER</name>
+	</author>
+</addon>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<lang>
+	<item name="msg_download_wanna_reply">
+		<value xml:lang="ko"><![CDATA[댓글 등록 후 다운로드 가능합니다.]]></value>
+		<value xml:lang="en"><![CDATA[Comments registration Download available.]]></value>
+	</item>
+</lang>
