@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon version="0.2">
-	<title xml:lang="ko">문서 내용 치환 애드온</title>
-	<title xml:lang="en">Addon for Replace document content</title>
+	<title xml:lang="ko">게시글 내용 변경</title>
+	<title xml:lang="en">document content change</title>
 	<description xml:lang="ko">
-		게시글의 내용(content)에서 특정 문자열을 찾아 대체문자로 변경합니다.
+		게시글의 내용을 설정된 형식에 따라 변경합니다.
 	</description>
 	<description xml:lang="en">
-		This addon support to find a particular string in the writings of posts replaced, change the character
+		Depending on the type of posts to change the contents of the set.
 	</description>
+	<date>2014.03.15</date>
 	<version>1.0</version>
-	<date>2014-03-05</date>
-
-	<author email_address="developers@xpressengine.com" link="http://xpressengine.com/">
-		<name xml:lang="ko">NAVER</name>
-		<name xml:lang="en">NAVER</name>
+    <author email_address="developers@xpressengine.com" link="http://xpressengine.com/">
+        <name xml:lang="ko">NAVER</name>
+        <name xml:lang="en">NAVER</name>
 	</author>
 </addon>
