@@ -15,14 +15,4 @@
 		<name xml:lang="ko">NAVER</name>
 		<name xml:lang="en">NAVER</name>
 	</author>
-
-	<extra_vars>
-		<var name="find_pattern" type="textarea">
-			<title xml:lang="ko">찾는 단어</title>
-			<title xml:lang="en">find word</title>
-			<description xml:lang="ko">줄바꿈하면 새로운 단어로 인식합니다.</description>
-			<description xml:lang="en">enter new line for seperated words.</description>
-		</var>
-	</extra_vars>
-
 </addon>
