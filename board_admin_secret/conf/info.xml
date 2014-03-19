@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+	<title xml:lang="ko">Board 비밀글 설정 애드온</title>
+	<description xml:lang="ko">
+		게시판 관리자가 게시판 설정에 관계없이 비밀글을 설정할 수 있도록 합니다.
+	</description>
+	<description xml:lang="en">
+		This addon support for Board grant.
+	</description>
+	<version>1.0</version>
+	<date>2014-03-19</date>
+
+	<author email_address="akasima@nate.com">
+		<name xml:lang="ko">akasima</name>
+	</author>
+</addon>
